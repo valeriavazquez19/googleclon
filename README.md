@@ -2,6 +2,8 @@
 
 Proyecto realizado como práctica del bootcamp de Tecnolochicas Proyectos.
 
+![Captura Clon Google](clondegoogle.png)
+
 ## ¿Qué construí?
 
 En este proyecto tuve como proposito construir la clonación de la interfaz del navegador de Google.
