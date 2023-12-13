@@ -2,7 +2,7 @@
 
 Proyecto realizado como práctica del bootcamp de Tecnolochicas Proyectos.
 
-![Captura Clon Google]()
+![Captura Clon Google](ClonGoogle.png)
 
 ## ¿Qué construí?
 
